@@ -15,6 +15,7 @@ A Spring Boot-based REST API for currency conversion that utilizes the FreeCurre
 - Java 17
 - Spring Boot
 - Spring Data JPA
+- H2 Database Engine
 - Maven
 
 ## API Endpoints
